@@ -1,6 +1,6 @@
 module data-redundancy-generator-bridge/v0.1.2
 
-go 1.20
+go 2.5
 
 require github.com/bnb-chain/greenfield-common/go v0.0.0-20230906132736-eb2f0efea228
 
